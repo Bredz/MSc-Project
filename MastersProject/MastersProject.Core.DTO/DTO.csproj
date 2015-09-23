@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FED0A4EC-A003-4A59-87B7-36A4927DF9FC}</ProjectGuid>
+    <ProjectGuid>{F09E9CA1-1E67-4215-BB80-CCFF25CA7B72}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MastersProject.Core.Common</RootNamespace>
-    <AssemblyName>Common</AssemblyName>
+    <RootNamespace>MastersProject.Core.DTO</RootNamespace>
+    <AssemblyName>DTO</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
