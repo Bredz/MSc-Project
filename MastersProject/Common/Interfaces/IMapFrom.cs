@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Common
+namespace MastersProject.Core.Common.Interfaces
 {
-    public class Class1
+    public interface IMapFrom<T>
     {
     }
 }
